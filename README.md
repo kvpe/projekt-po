@@ -1,0 +1,2 @@
+# projekt-po
+projekt symulacja
