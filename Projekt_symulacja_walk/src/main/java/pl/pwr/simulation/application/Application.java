@@ -1,16 +1,5 @@
 /*
 KOLBERTOWICZ JAKUB, TOCZYNSKI ANTONI
-
-DO ZROBIENIA:
-- testy jednostkowe
-- r rando
-
-Dzień dobry, przesyłam uwagi na wyższą ocenę:
-
-zastosować hermetyzację - chyba juz
-
-konstuktor Map jest zbyt skomplikowany
-
 */
 package pl.pwr.simulation.application;
 
